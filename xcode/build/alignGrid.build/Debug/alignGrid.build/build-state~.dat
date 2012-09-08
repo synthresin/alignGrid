@@ -1,0 +1,197 @@
+TalignGrid
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/alignGrid.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/alignGrid_Prefix-asipkrgfmpzuwjdgczdvtkvqitcb/alignGrid_Prefix.pch.pth alignGrid_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/alignGrid.build/Debug/alignGrid.build/Objects-normal/i386/alignGridApp.o /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/../src/alignGridApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/MacOS/alignGrid normal i386
+cTouch /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000050224CA700000000000000AA
+t1344425127
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000501022E800000000000024F0
+t1343234792
+s9456
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000501022E80000000000024C14
+t1343234792
+s150548
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c00000000501022E800000000000060B4
+t1343234792
+s24756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000501022E900000000000001E5
+t1343234793
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c00000000501022E9000000000000E920
+t1343234793
+s59680
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c00000000501015C300000000000069F0
+t1343231427
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000501015C30000000000006730
+t1343231427
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000501015C70000000000081CB0
+t1343231431
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000501015CF000000000002DAF0
+t1343231439
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c00000000501015D300000000004A2D90
+t1343231443
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c00000000501016CB0000000000322E20
+t1343231691
+s3288608
+
+N/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/../src/alignGridApp.cpp
+c00000000504B4B7C00000000000004E5
+t1347111804
+s1253
+
+N/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/Info.plist
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/MacOS/alignGrid
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/Objects-normal/i386/alignGrid.LinkFileList
+c00000000504B4B7E0000000000000087
+t1347111806
+s135
+
+N/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/Objects-normal/i386/alignGridApp.o
+t2
+s0
+
+N/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/CinderApp.icns
+c00000000504B4694000000000001BEB5
+t1347110548
+s114357
+
+N/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/alignGrid_Prefix.pch
+c00000000504B46940000000000000093
+t1347110548
+s147
+i<Cocoa/Cocoa.h>
+
+N/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/alignGrid_Prefix-asipkrgfmpzuwjdgczdvtkvqitcb/alignGrid_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c00000000504B4694000000000000034F
+t1347110548
+s847
+
+CBuild AST from /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/../src/alignGridApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa4e0a1fe82fbb541^ccb4a9fe82fbb541^---0#1#0#--18"Check dependencies36"F67B70FB-5405-4319-A53F-9CD89B852AE4-
+
+CCompileC ./build/alignGrid.build/Debug/alignGrid.build/Objects-normal/i386/alignGridApp.o /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/../src/alignGridApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s368804606.708973
+e368804609.022271
+r1
+xCompileC
+x./build/alignGrid.build/Debug/alignGrid.build/Objects-normal/i386/alignGridApp.o
+x/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/../src/alignGridApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/../src/alignGridApp.cpp8995b5fe82fbb541^03b4050183fbb541^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/../src/alignGridApp.cpp0000000000000000^2814"CompileC ./build/alignGrid.build/Debug/alignGrid.build/Objects-normal/i386/alignGridApp.o ../src/alignGridApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/alignGrid-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/alignGrid-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/alignGrid-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/alignGrid-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/build/Debug -include /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/alignGrid_Prefix-asipkrgfmpzuwjdgczdvtkvqitcb/alignGrid_Prefix.pch -MMD -MT dependencies -MF /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/Objects-normal/i386/alignGridApp.d --serialize-diagnostics /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/Objects-normal/i386/alignGridApp.dia -c /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/../src/alignGridApp.cpp -o /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/Objects-normal/i386/alignGridApp.o36"908B675D-B3D4-4D58-8ED8-26E5DD55DEBF-
+
+CCpResource CinderApp.icns ./build/Debug/alignGrid.app/Contents/Resources/CinderApp.icns
+s368804606.676822
+e368804606.679168
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/alignGrid.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy ./build/Debug/alignGrid.app/Contents/Resources/CinderApp.icns8654adfe82fbb541^9cdeadfe82fbb541^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/Resources/CinderApp.icns000000000080d041^431"CpResource CinderApp.icns ./build/Debug/alignGrid.app/Contents/Resources/CinderApp.icns    cd /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/CinderApp.icns /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/Resources36"F3062740-3B40-4564-8D27-6C5551FB501E-
+
+CLd /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/MacOS/alignGrid normal i386
+s368804609.029102
+e368804609.356243
+r1
+xLd
+x/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/MacOS/alignGrid
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Link /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/MacOS/alignGrid5a83070183fbb541^87335b0183fbb541^---0#0#0#--1049"Ld ./build/Debug/alignGrid.app/Contents/MacOS/alignGrid normal i386    cd /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/build/Debug -F/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/build/Debug -filelist /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/Objects-normal/i386/alignGrid.LinkFileList -mmacosx-version-min=10.5 ../../..//lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/MacOS/alignGrid36"D53197C1-29FC-4F69-81AE-914004727290-
+
+CProcessInfoPlistFile /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/Info.plist Info.plist
+s368804606.666488
+e368804606.669214
+r1
+xProcessInfoPlistFile
+x/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist3fadaafe82fbb541^9771abfe82fbb541^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/Info.plist0000000000000000^435"ProcessInfoPlistFile ./build/Debug/alignGrid.app/Contents/Info.plist Info.plist    cd /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app/Contents/Info.plist36"A7649501-F4FC-4340-AC28-44B85FE69F4A-
+
+CProcessPCH++ /Users/synthresin/Library/Developer/Xcode/DerivedData/alignGrid-bjcgegmcfihbhihafsijtntuziqa/Index/PrecompiledHeaders/alignGrid_Prefix-brtuzvkicjsbgicfwxzpsgjhfpoe_ast/alignGrid_Prefix.pch.pth alignGrid_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/alignGrid_Prefix-asipkrgfmpzuwjdgczdvtkvqitcb/alignGrid_Prefix.pch.pth alignGrid_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s368804606.687229
+e368804606.702518
+r1
+xProcessPCH++
+x/var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/alignGrid_Prefix-asipkrgfmpzuwjdgczdvtkvqitcb/alignGrid_Prefix.pch.pth
+xalignGrid_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile alignGrid_Prefix.pch5b0ab0fe82fbb541^d4d7b3fe82fbb541^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/alignGrid_Prefix.pch0000000000000000^2819"ProcessPCH++ /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/alignGrid_Prefix-asipkrgfmpzuwjdgczdvtkvqitcb/alignGrid_Prefix.pch.pth alignGrid_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/alignGrid-generated-files.hmap -I/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/alignGrid-own-target-headers.hmap -I/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/alignGrid-all-target-headers.hmap -iquote /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/alignGrid-project-headers.hmap -iquote../../../include -iquote../include -I/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/build/Debug/include -I../../../boost -I/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/DerivedSources/i386 -I/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/alignGrid.build/Debug/alignGrid.build/DerivedSources -F/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/build/Debug --serialize-diagnostics /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/alignGrid_Prefix-asipkrgfmpzuwjdgczdvtkvqitcb/alignGrid_Prefix.pch.dia -c /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/alignGrid_Prefix.pch -o /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/alignGrid_Prefix-asipkrgfmpzuwjdgczdvtkvqitcb/alignGrid_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rx/5920lwf5777bzm51lrsn28900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/alignGrid_Prefix-asipkrgfmpzuwjdgczdvtkvqitcb/alignGrid_Prefix.pch.d36"DF23058D-91CB-4A70-8C51-E678FC599314-
+
+CTouch /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app
+s368804609.363922
+e368804609.369065
+r1
+xTouch
+x/Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Touch /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app87355d0183fbb541^ed7d5e0183fbb541^---0#0#0#--199"Touch ./build/Debug/alignGrid.app    cd /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode    /usr/bin/touch -c /Users/synthresin/Desktop/cinder/apps/alignGrid/xcode/./build/Debug/alignGrid.app36"6AE23AEC-5E54-41D5-B014-2E9B5979A511-
+
