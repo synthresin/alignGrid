@@ -13,7 +13,8 @@ using namespace std;
 class alignGridApp : public AppBasic {
   public:
 	void setup();
-	void mouseDown( MouseEvent event );	
+	void mouseDown( MouseEvent event );
+	void mouseUp (MouseEvent event);
 	void update();
 	void draw();
     void redraw();
@@ -22,6 +23,8 @@ class alignGridApp : public AppBasic {
     float mGridSizeY;
     Rand mRand;
     Perlin mPerlin;
+    
+    bool mDraw;
 };
 
 void alignGridApp::setup()
@@ -37,7 +40,12 @@ void alignGridApp::setup()
 
 void alignGridApp::mouseDown( MouseEvent event )
 {
-    redraw();
+    mDraw = true;
+}
+
+void alignGridApp::mouseUp( MouseEvent event )
+{
+    mDraw = false;
 }
 
 void alignGridApp::update()
@@ -46,6 +54,9 @@ void alignGridApp::update()
 
 void alignGridApp::draw()
 {
+    if (mDraw) {
+        redraw();
+    }
 	// clear out the window with black
 	
 }
@@ -97,3 +108,5 @@ void alignGridApp::redraw()
 
 
 CINDER_APP_BASIC( alignGridApp, RendererGl )
+
+
